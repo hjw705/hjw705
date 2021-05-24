@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
   <div align=center>
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhjw705)](https://hits.seeyoufarm.com) 
 	
   [![Jian's github stats](https://github-readme-stats.vercel.app/api?username=hjw705&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjw705&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
