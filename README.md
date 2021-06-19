@@ -28,5 +28,7 @@ Here are some ideas to get you started:
  
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luckywon88@gmail.com)](mailto:luckywon88@gmail.com)
+	
+- 📒  **notion (updating)...** [![Study Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://www.notion.so/9d0b86e7a9ae491c9b8f569420e8f5c5)](https://www.notion.so/9d0b86e7a9ae491c9b8f569420e8f5c5)
   </div>
   
