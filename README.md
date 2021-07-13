@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 	
 - 📒  ** CS Study (updating)...** [![Study Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://www.notion.so/9d0b86e7a9ae491c9b8f569420e8f5c5)](https://www.notion.so/9d0b86e7a9ae491c9b8f569420e8f5c5)
  
--:computer:  ** Algorithm Study (updating)...** [![Study Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://www.notion.so/9d0b86e7a9ae491c9b8f569420e8f5c5)](https://www.notion.so/9d0b86e7a9ae491c9b8f569420e8f5c5)
+-:computer:  ** Algorithm Study (updating)...** [![Study Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://www.notion.so/569015ec814644448340627ec0475703)](https://www.notion.so/569015ec814644448340627ec0475703)
   </div>
   
