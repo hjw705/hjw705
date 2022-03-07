@@ -30,6 +30,4 @@ Here are some ideas to get you started:
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luckywon88@gmail.com)](mailto:luckywon88@gmail.com)
 	
  
--:computer:  ** Algorithm Study (updating)...** [![Study Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://www.notion.so/569015ec814644448340627ec0475703)](https://www.notion.so/569015ec814644448340627ec0475703)
-  </div>
   
