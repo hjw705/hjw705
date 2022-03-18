@@ -23,7 +23,8 @@ Here are some ideas to get you started:
   [![Jian's github stats](https://github-readme-stats.vercel.app/api?username=hjw705&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjw705&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
-    
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&link=https://jianhan.notion.site/Han-Jian-9d4e4131532745c1a0dfb6ac2e017222)](https://jianhan.notion.site/Han-Jian-9d4e4131532745c1a0dfb6ac2e017222)
+	
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hjw705/)](https://www.linkedin.com/in/hjw705/)
  
   
